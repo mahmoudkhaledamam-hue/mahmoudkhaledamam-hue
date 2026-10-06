@@ -22,7 +22,7 @@ and I'm currently learning Spring Boot to build REST APIs.
 - [Student Management System](https://github.com/mahmoudkhaledamam-hue/Arrayeprogact/commit/32b61e72ad2ecbdbb47bfef9b9bd3186151914f2) - Java console app using OOP and a custom dynamic array.
 
 ## Contact
-- 📧 your-email@example.com
+- 📧 mahmoudkhaledamam@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/mahmoud-khaled-65b4893a3/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BG6vtd7cWSBaA8JNuIwFHDQ%3D%3D)
 
 <!--
