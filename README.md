@@ -19,11 +19,11 @@ and I'm currently learning Spring Boot to build REST APIs.
 - Docker
 
 ## Projects
-- [Student Management System](https://github.com/mahmoudkhaledamam-hue/Arrayeprogact/commit/32b61e72ad2ecbdbb47bfef9b9bd3186151914f2) - Java console app using OOP and a custom dynamic array.
+- [Student Management System](   https://github.com/mahmoudkhaledamam-hue/Arrayeprogact  ) - Java console app using OOP and a custom dynamic array.
 
 ## Contact
 - 📧 mahmoudkhaledamam@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/mahmoud-khaled-65b4893a3/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BG6vtd7cWSBaA8JNuIwFHDQ%3D%3D)
+- 💼 [LinkedIn](https://www.linkedin.com/in/mahmoud-khaled-65b4893a3/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B7xKwCx92R0CjPq%2BXjnwAMw%3D%3D)
 
 <!--
 **mahmoudkhaledamam-hue/mahmoudkhaledamam-hue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
